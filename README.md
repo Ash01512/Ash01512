@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on cloud and ML projects
 - 📫 How to reach me (I prefer phone calls: +971505298558)
 - 😄 Pronouns: Ashraf
-- ⚡ Fun fact: I fell from a bathtub when I was 10 years old :)
 
 <!---
 Ash01512/Ash01512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
