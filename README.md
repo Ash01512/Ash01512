@@ -1,3 +1,6 @@
+👋 Hi, I’m Ashraf Abbas (@Ash01512)
+
+Mechanical Engineer with 12+ years leading multidisciplinary facilities, aviation, and EPC projects across the UAE — now transitioning into AI/ML engineering and intelligent automation.
 
 
 I bring deep systems thinking, process optimisation, and data-driven decision-making from managing large-scale operations at Emirates Group and MAIR Group. Now I’m channelling that into building AI agents, cloud-native applications, and data pipelines.
