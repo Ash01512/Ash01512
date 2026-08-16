@@ -5,9 +5,21 @@ Mechanical Engineer with 12+ years leading multidisciplinary facilities, aviatio
 
 I bring deep systems thinking, process optimisation, and data-driven decision-making from managing large-scale operations at Emirates Group and MAIR Group. Now I’m channelling that into building AI agents, cloud-native applications, and data pipelines.
 
-🔭 Currently building: gBrain — a personal AI agent integrating LLM orchestration, tool-calling, and memory for workflow automation
+🔭 Currently building:
 
-🛠 Tech stack: Python · LangChain · AWS · Docker · Terraform · Oracle Cloud · SQL · Scikit-learn
+1) Job Tracker — 
+A scheduled ingestion service. It pulls job listings from two job-board APIs on a
+daily cron, normalises them, filters them against two independent search profiles,
+deduplicates against what's already stored, and writes new matches into Postgres
+(Supabase). Per-source and per-profile failure isolation throughout.
+
+2) IRS 1099-INT record tracker
+
+🛠 Tech stack: Consist of layers of my modern AI ecosystem 
+
+Connectors (Supabase, Cloudflare) - Bridge AI to external data and SaaS apps
+Claude Code - Core terminal based software engineering agent
+gstack - Opinionated framework of prompts and role- based workflows built on top of Claude code
 
 🎓 Background: MSc Data Science & Analytics · BSc Mechanical Engineering · Lean Six Sigma Green Belt · OCI Generative AI Professional · CRISC
 
