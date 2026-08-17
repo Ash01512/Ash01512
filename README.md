@@ -1,4 +1,4 @@
-👋 Hi, I’m Ashraf Abbas (@Ash01512)
+👋 Hi, I’m Ashraf Salih (@Ash01512)
 
 Mechanical Engineer with 12+ years leading multidisciplinary facilities, aviation, and EPC projects across the UAE — now transitioning into AI/ML engineering and intelligent automation.
 
